@@ -15,6 +15,9 @@ function converteSegundosRelogio() {
     }
     console.log(horas + ":" + minutos + ":" + seg);
 }
+converteSegundosRelogio(seg)
+console.log("ihulllllll")
+converteSegundosRelogio()
 
 ///    console.log("horas", horas);
 ///   console.log("minutos", minutos);
